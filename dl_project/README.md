@@ -12,9 +12,12 @@
     * Scaling
     * When to use one vs the other
 
-* Model to consider
+* Models to consider
    * Random Forests
    * XGBoost
    * Logistic Regression
    * DNN
    * Wide and Deep
+
+* Explore possibilities
+    * Can we have a version of the model hosted for people to interact with
