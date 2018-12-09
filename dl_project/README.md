@@ -1,4 +1,4 @@
-## Final Deep Learning Project - Avaze CTR Prediction
+## Final Deep Learning Project - Avazu CTR Prediction
 
 ### List of things to cover in the slides and project
 
