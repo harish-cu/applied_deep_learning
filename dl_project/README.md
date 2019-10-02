@@ -13,11 +13,15 @@
     * When to use one vs the other
 
 * Models to consider
-   * Random Forests
-   * XGBoost
-   * Logistic Regression
-   * DNN
-   * Wide and Deep
+    * Random Forests
+    * XGBoost
+    * Logistic Regression
+    * DNN
+    * Wide and Deep
 
 * Explore possibilities
-    * Can we have a version of the model hosted for people to interact with
+    * Can we have a version of the model hosted for people to interact with?
+    * If we are using embeddings on categorical columns, can we project it to 2 or 3D space using
+      t-SNE (since we don't have names, it might not be as fun but it's still good to understand
+      what's going on here). Also generally, compare t-SNE with PCA for analysis/visualization?
+      
